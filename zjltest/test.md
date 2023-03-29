@@ -1,1 +1,1 @@
-[testMD](/zjltest/111)
+[testMD](../test)
